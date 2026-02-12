@@ -7,7 +7,7 @@ My most recent experiences include designing robots using C.A.D. software, devel
 Tech Stack: C++, Python, C#, Scala, LUA scripting, and C.A.D. design
 
 I would love to get more experience in a working environemnt with practical software engineer applications - primarily with enhancing both usability as well as security software detection. 
-I also have years of experience with assisting on internal tech issues with windows and linux operating systems. My experience allows me to quickly figure
+I also have years of experience with assisting on internal tech issues with windows and linux operating systems.
 <!--
 **laithztta/laithztta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
