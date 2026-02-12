@@ -3,6 +3,11 @@ Hi!
 I am an aspiring full-stack software engineer who loves learning new software and skills in a wide variety of different topics.
 
 My most recent experiences include designing robots using C.A.D. software, developing my own games in Unity engine, as well as utilizing aseprite to create pixel art for various applicable objects.
+
+Tech Stack: C++, Python, C#, Scala, LUA scripting, and C.A.D. design
+
+I would love to get more experience in a working environemnt with practical software engineer applications - primarily with enhancing both usability as well as security software detection. 
+I also have years of experience with assisting on internal tech issues with windows and linux operating systems. My experience allows me to quickly figure
 <!--
 **laithztta/laithztta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
