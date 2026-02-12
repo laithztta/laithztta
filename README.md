@@ -1,4 +1,8 @@
+Hi!
 
+I am an aspiring full-stack software engineer who loves learning new software and skills in a wide variety of different topics.
+
+My most recent experiences include designing robots using C.A.D. software, developing my own games in Unity engine, as well as utilizing aseprite to create pixel art for various applicable objects.
 <!--
 **laithztta/laithztta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
